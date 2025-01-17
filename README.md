@@ -1,2 +1,2 @@
 # mini-project
-Maths Quiz  Presented by Umamani Singh, 
+Maths Quiz  Presented by Umamani Singh,Deepak Yadav 
